@@ -18,3 +18,5 @@ Regarding the back-end:
 During the development of some projects, I also used some programs like:
 - Figma / Adobe XD
 - Photoshop
+
+If you want to contact me you can write me at: scarcelli.domiziano(at)gmail.com
