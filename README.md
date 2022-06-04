@@ -31,3 +31,5 @@ During the development of some projects, I also used some programs like:
 If you want to contact me you can write me at: scarcelli.domiziano(at)gmail.com
 
 [Linkedin](https://www.linkedin.com/in/domiziano-scarcelli/) - [Personal Portfolio](https://domiziano.netlify.com)
+
+[![Domiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomizianoScarcelli)](https://github.com/anuraghazra/github-readme-stats)
