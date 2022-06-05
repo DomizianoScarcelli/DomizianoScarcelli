@@ -6,6 +6,10 @@
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
 
+# Projects I have contributed to
+
+- [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): added the option to select a custom reddit thread
+
 # About me
 I recently obtained a bachelor's degree in Computer Science from the University of Rome "La Sapienza". 
 
