@@ -8,7 +8,9 @@
 
 # Projects I have contributed to 🙏
 
-- [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): added the option to select a custom reddit thread
+- [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): 
+  - added the option to select a custom reddit thread
+  - added a filter to pick only the comments inside a range of lenght in characters
 
 # About me ✨
 Hi, I'm Domiziano.
