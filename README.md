@@ -22,7 +22,7 @@ I have some experience in native Android development and web development, both f
 During my university career and during my free time, I managed to carry out some projects, that can be found on my GitHub page. 
 
 I’m familiar with the following programming languages:
-- HTML / CSS / Javascript
+- HTML / CSS / Javascript / Typescript
 - Java
 - Python 
 
