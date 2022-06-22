@@ -10,7 +10,7 @@
 
 - [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): 
   - added the option to select a custom reddit thread [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/238)
-  - added a filter to pick only the comments inside a range of lenght in characters [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/261)
+  - added a filter to pick only the comments inside a range of lenth in characters [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/261)
   - added the option to modify the path where the video is saved [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)
 
 # About me ✨
