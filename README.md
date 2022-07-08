@@ -2,10 +2,10 @@
 # My Projects on GitHub 💻
 
 - Workout Tracker ([Frontend](https://github.com/DomizianoScarcelli/workout-tracker) - [Backend](https://github.com/DomizianoScarcelli/workout-tracker-backend)) (MERN)
-- [Pathfinder Visualizer](https://github.com/DomizianoScarcelli/pathfinder-visualizer) (p5.js, Vanilla JS)
+- [Pathfinder Visualizer](https://github.com/DomizianoScarcelli/pathfinder-visualizer) (p5.js)
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
-- [WordFind Puzzle Library](https://github.com/DomizianoScarcelli/word-find-puzzle) (TypeScript)
+- [WordFind Puzzle Library](https://github.com/DomizianoScarcelli/word-find-puzzle) (TypeScript, Jest)
 
 # Projects I have contributed to 🙏
 
