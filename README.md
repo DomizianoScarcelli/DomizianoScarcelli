@@ -5,6 +5,7 @@
 - [Pathfinder Visualizer](https://github.com/DomizianoScarcelli/pathfinder-visualizer) (p5.js, Vanilla JS)
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
+- [WordFind Puzzle Library](https://github.com/DomizianoScarcelli/word-find-puzzle) (TypeScript)
 
 # Projects I have contributed to 🙏
 
