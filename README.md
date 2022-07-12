@@ -33,10 +33,11 @@ Inside the front-end development, I have experience with the following technolog
 - React.js
 
 Regarding the back-end:
-- Node.js / Express
+- Node.js 
+- Express
 - MongoDB / Mongoose
 
-I'm also learning unit testing with Jest
+I'm also learning unit testing using Jest
 
 During the development of some projects, I also used some programs like:
 - Figma / Adobe XD
