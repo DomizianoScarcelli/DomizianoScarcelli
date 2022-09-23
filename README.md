@@ -35,6 +35,7 @@ Inside the front-end development, I have experience with the following technolog
 Regarding the back-end:
 - Node.js 
 - Express
+- MySQL
 - MongoDB / Mongoose
 
 I'm also learning unit testing using Jest
