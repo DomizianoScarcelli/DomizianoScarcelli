@@ -33,6 +33,7 @@ Inside the front-end development, I have experience with the following technolog
 - React.js
 
 Regarding the back-end:
+- Django
 - Node.js 
 - Express
 - MySQL
