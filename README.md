@@ -48,6 +48,6 @@ During the development of some projects, I also used some programs like:
 
 If you want to contact me you can write me at: [scarcelli.domiziano@gmail.com](mailto:scarcelli.domiziano@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) - [Personal Portfolio](https://domiziano.netlify.com)
+[LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) - [Personal Portfolio](https://domiziano.netlify.com) - [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
 
 [![Domiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomizianoScarcelli)](https://github.com/anuraghazra/github-readme-stats)
