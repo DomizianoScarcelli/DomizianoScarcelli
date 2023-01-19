@@ -1,12 +1,12 @@
 
-# My Projects on GitHub 💻
+# Side Projects on GitHub 💻
 
 - [WordFind Puzzle Library](https://github.com/DomizianoScarcelli/word-find-puzzle) (TypeScript, Jest)
 - Workout Tracker ([Frontend](https://github.com/DomizianoScarcelli/workout-tracker) - [Backend](https://github.com/DomizianoScarcelli/workout-tracker-backend)) (MERN)
 - [Pathfinder Visualizer](https://github.com/DomizianoScarcelli/pathfinder-visualizer) (p5.js)
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
 
-# My University Projects 🎓
+# University Projects 🎓
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/DomizianoScarcelli/autonomous-networking) (Python, Reinforcement Learning)
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 
@@ -19,6 +19,8 @@
 
 # About me ✨
 Hi, I'm Domiziano.
+
+I'm currently studying for my master's degree in Computer Science at the University of Rome "La Sapienza". 
 
 I obtained a bachelor's degree in Computer Science from the University of Rome "La Sapienza" in March 2022. If you want you can read my thesis (written in Italian) [here](https://github.com/DomizianoScarcelli/bachelor-thesis).
 
