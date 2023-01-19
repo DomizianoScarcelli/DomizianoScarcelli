@@ -4,11 +4,11 @@
 - [WordFind Puzzle Library](https://github.com/DomizianoScarcelli/word-find-puzzle) (TypeScript, Jest)
 - Workout Tracker ([Frontend](https://github.com/DomizianoScarcelli/workout-tracker) - [Backend](https://github.com/DomizianoScarcelli/workout-tracker-backend)) (MERN)
 - [Pathfinder Visualizer](https://github.com/DomizianoScarcelli/pathfinder-visualizer) (p5.js)
-- [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
 
 # My University Projects 🎓
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/DomizianoScarcelli/autonomous-networking) (Python, Reinforcement Learning)
+- [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 
 # Projects I have contributed to 🙏
 
