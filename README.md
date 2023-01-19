@@ -7,6 +7,8 @@
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
 
+# My University Projects 🎓
+- [Q-Learning MAC protocol for ad-hoc wireless networks](https://github.com/DomizianoScarcelli/autonomous-networking)
 
 # Projects I have contributed to 🙏
 
