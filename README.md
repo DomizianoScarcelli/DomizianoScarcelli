@@ -8,7 +8,7 @@
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
 
 # My University Projects 🎓
-- [Q-Learning MAC protocol for ad-hoc wireless networks](https://github.com/DomizianoScarcelli/autonomous-networking) (Python, Reinforcement Learning)
+- [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/DomizianoScarcelli/autonomous-networking) (Python, Reinforcement Learning)
 
 # Projects I have contributed to 🙏
 
