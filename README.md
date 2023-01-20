@@ -8,6 +8,7 @@
 
 # University Projects 🎓
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/DomizianoScarcelli/autonomous-networking) (Python, Reinforcement Learning)
+- [Stroke Prediction with Machine Learning](https://github.com/DomizianoScarcelli/fundamentals-of-data-science) (Python, Machine Learning)
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 
 # Projects I have contributed to 🙏
