@@ -1,7 +1,7 @@
 
 # Side Projects on GitHub 💻
 
-- [WordFind Puzzle Library](https://github.com/DomizianoScarcelli/word-find-puzzle) (TypeScript, Jest)
+- [WordSearch Puzzle Generator](https://github.com/DomizianoScarcelli/word-find-puzzle) (React, TypeScript, Jest)
 - Workout Tracker ([Frontend](https://github.com/DomizianoScarcelli/workout-tracker) - [Backend](https://github.com/DomizianoScarcelli/workout-tracker-backend)) (MERN)
 - [Pathfinder Visualizer](https://github.com/DomizianoScarcelli/pathfinder-visualizer) (p5.js)
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
