@@ -38,14 +38,15 @@ I’m familiar with the following programming languages:
 - HTML / CSS
 - Javascript / Typescript
 - Java
-- Python 
+- Python
+- SQL 
 
 Inside the front-end development, I have experience with the following technologies:
 - React.js
 
 Regarding the back-end:
 - Django
-- Node.js 
+- Node.js
 - Express
 - MySQL
 - MongoDB / Mongoose
