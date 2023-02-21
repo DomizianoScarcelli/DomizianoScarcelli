@@ -62,4 +62,4 @@ If you want to contact me you can write me at: [scarcelli.domiziano@gmail.com](m
 
 [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) - [Personal Portfolio](https://domiziano.netlify.com) - [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
 
-[![Domiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomizianoScarcelli)](https://github.com/anuraghazra/github-readme-stats)
+![Domiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomizianoScarcelli&show_icons=true&theme=radical)
