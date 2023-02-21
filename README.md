@@ -14,10 +14,15 @@
 
 # Projects I have contributed to 🙏
 
+- [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar):
+  - Adding possibility to specify due date and time with natural language [(Pull Request)](https://github.com/DamascenoRafael/reminders-menubar/pull/105)
+  - Added missing Italian translation in Localizable.strings [(Pull Request)](https://github.com/DamascenoRafael/reminders-menubar/pull/106)
+
+
 - [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): 
-  - added the option to select a custom reddit thread [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/238)
-  - added a filter to pick only the comments inside a range of length in characters [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/261)
-  - added the option to modify the path where the video is saved [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)
+  - Added the option to select a custom reddit thread [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/238)
+  - Added a filter to pick only the comments inside a range of length in characters [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/261)
+  - Added the option to modify the path where the video is saved [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)
 
 # About me ✨
 Hi, I'm Domiziano.
