@@ -14,7 +14,16 @@
 
 # Projects I have contributed to 🙏
 
-- [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar):
+| Repository                                                                                | PR                                                                                                                                         | Merge date |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Adding possibility to specify due date and time with natural language](https://github.com/DamascenoRafael/reminders-menubar/pull/105)     | 21/02/2023 |
+| [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Added missing Italian translation in Localizable.strings](https://github.com/DamascenoRafael/reminders-menubar/pull/106)                  | 16/02/2023 |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added a filter to pick only the comments inside a range of length in characters](https://github.com/elebumm/RedditVideoMakerBot/pull/261) | 08/06/2022 |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to modify the path where the video is saved](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)                   | 08/06/2022 |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to select a custom reddit thread](https://github.com/elebumm/RedditVideoMakerBot/pull/238)                               | 05/06/2022 |
+
+
+<!-- - [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar):
   - Adding possibility to specify due date and time with natural language [(Pull Request)](https://github.com/DamascenoRafael/reminders-menubar/pull/105)
   - Added missing Italian translation in Localizable.strings [(Pull Request)](https://github.com/DamascenoRafael/reminders-menubar/pull/106)
 
@@ -23,7 +32,7 @@
   - Added the option to select a custom reddit thread [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/238)
   - Added a filter to pick only the comments inside a range of length in characters [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/261)
   - Added the option to modify the path where the video is saved [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)
-
+ -->
 # About me ✨
 Hi, I'm Domiziano.
 
