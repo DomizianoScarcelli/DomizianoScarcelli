@@ -25,17 +25,6 @@
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to modify the path where the video is saved](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)                   | 08/06/2022 |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to select a custom reddit thread](https://github.com/elebumm/RedditVideoMakerBot/pull/238)                               | 05/06/2022 |
 
-
-<!-- - [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar):
-  - Adding possibility to specify due date and time with natural language [(Pull Request)](https://github.com/DamascenoRafael/reminders-menubar/pull/105)
-  - Added missing Italian translation in Localizable.strings [(Pull Request)](https://github.com/DamascenoRafael/reminders-menubar/pull/106)
-
-
-- [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): 
-  - Added the option to select a custom reddit thread [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/238)
-  - Added a filter to pick only the comments inside a range of length in characters [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/261)
-  - Added the option to modify the path where the video is saved [(Pull Request)](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)
- -->
 # About me ✨
 Hi, I'm Domiziano.
 
@@ -43,27 +32,34 @@ I'm currently studying for my master's degree in Computer Science at the Univers
 
 I obtained a bachelor's degree in Computer Science from the University of Rome "La Sapienza" in March 2022. If you want you can read my thesis (written in Italian) [here](https://github.com/DomizianoScarcelli/bachelor-thesis).
 
-I have some experience in native Android development and web development, both front-end and back-end. 
+I have some experience in Web and Mobile development, mainly using React and React Native. I also have some experience in building REST APIs on the backend, and in some Machine Learning and Deep Learning using PyTorch and PySpark for distributed computation.
 During my university career and during my free time, I managed to carry out some projects, that can be found on my GitHub page. 
 
 I’m familiar with the following programming languages:
-- HTML / CSS
+- HTML
+- CSS (SCSS and Tailwind)
 - Javascript / Typescript
 - Java
 - Python
 - SQL 
+- Swift
 
 Inside the front-end development, I have experience with the following technologies:
-- React.js
+- React
+- React Native
 
-Regarding the back-end:
+Regarding the back end:
+- Docker
+- MinIO
 - Django
-- Node.js
+- FastAPI
 - Express
-- MySQL
-- MongoDB / Mongoose
+- MySQL / Postgres using Prisma
+- MongoDB using Mongoose and Pymongo
 
-I'm also learning unit testing using Jest
+Regarding the cloud:
+- AWS (ECS, S3)
+- Terraform
 
 During the development of some projects, I also used some programs like:
 - Figma / Adobe XD
