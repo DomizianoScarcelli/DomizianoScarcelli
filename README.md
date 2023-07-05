@@ -32,7 +32,12 @@ I'm currently studying for my master's degree in Computer Science at the Univers
 
 I obtained a bachelor's degree in Computer Science from the University of Rome "La Sapienza" in March 2022. If you want you can read my thesis (written in Italian) [here](https://github.com/DomizianoScarcelli/bachelor-thesis).
 
-I have some experience in Web and Mobile development, mainly using React and React Native. I also have some experience in building REST APIs on the backend, and in some Machine Learning and Deep Learning using PyTorch and PySpark for distributed computation.
+I have some experience in:
+- Web Development
+- Mobile Development
+- Backend Development (REST APIs)
+- Machine Learning, using PyTorch as a framework and Pyspark for distributed computation.
+
 During my university career and during my free time, I managed to carry out some projects, that can be found on my GitHub page. 
 
 I’m familiar with the following programming languages:
