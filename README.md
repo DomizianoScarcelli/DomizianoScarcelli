@@ -63,7 +63,7 @@ Regarding the back end:
 - MongoDB using Mongoose and Pymongo
 
 Regarding the cloud:
-- AWS (ECS, S3)
+- AWS (ECS, RDS, S3)
 - Terraform
 
 During the development of some projects, I also used some programs like:
