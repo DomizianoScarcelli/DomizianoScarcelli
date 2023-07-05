@@ -7,7 +7,8 @@
 - [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
 
 # University Projects 🎓
-- [Spotify Automatic Playlist Continuation](https://github.com/DomizianoScarcelli/spotify-recommender) (Python, Pyspark, Big Data, Petastorm, PyTorch, React, Tailwind, MinIO, MongoDB)
+- [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/DomizianoScarcelli/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
+- [Spotify Automatic Playlist Continuation](https://github.com/DomizianoScarcelli/spotify-recommender) (Python, Pyspark, Big Data, Petastorm, PyTorch, React, Tailwind, MinIO, MongoDB, Docker)
 - [BiometricBites - Face recognition system for cafeteria access](https://github.com/DomizianoScarcelli/BiometricBites) (Typescript, Python, React, Django, Face Recognition)
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/DomizianoScarcelli/autonomous-networking) (Python, Reinforcement Learning)
 - [Stroke Prediction with Machine Learning](https://github.com/DomizianoScarcelli/fundamentals-of-data-science) (Python, Machine Learning)
