@@ -1,12 +1,7 @@
 
-# Side Projects on GitHub 💻
 
-- [WordSearch Puzzle Generator](https://github.com/DomizianoScarcelli/word-find-puzzle) (React, TypeScript, Jest)
-- Workout Tracker ([Frontend](https://github.com/DomizianoScarcelli/workout-tracker) - [Backend](https://github.com/DomizianoScarcelli/workout-tracker-backend)) (MERN)
-- [Pathfinder Visualizer](https://github.com/DomizianoScarcelli/pathfinder-visualizer) (p5.js)
-- [Portfolio](https://github.com/DomizianoScarcelli/portfolio) (React.js)
 
-# University Projects 🎓
+# Projects 🎓
 - [Spotify Automatic Playlist Continuation](https://github.com/DomizianoScarcelli/spotify-recommender) (Python, Pyspark, Big Data, Petastorm, PyTorch, React, Tailwind, MinIO, MongoDB, Docker)
 - [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/DomizianoScarcelli/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
 - [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/DomizianoScarcelli/voicefork-alexa-skill) (Alexa Skill, Typescript)
@@ -14,16 +9,7 @@
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/DomizianoScarcelli/autonomous-networking) (Python, Reinforcement Learning)
 - [Stroke Prediction with Machine Learning](https://github.com/DomizianoScarcelli/fundamentals-of-data-science) (Python, Machine Learning)
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
-
-# Projects I have contributed to 🙏
-
-| Repository                                                                                | PR                                                                                                                                         | Merge date |
-|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Adding possibility to specify due date and time with natural language](https://github.com/DamascenoRafael/reminders-menubar/pull/105)     | 21/02/2023 |
-| [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Added missing Italian translation in Localizable.strings](https://github.com/DamascenoRafael/reminders-menubar/pull/106)                  | 16/02/2023 |
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added a filter to pick only the comments inside a range of length in characters](https://github.com/elebumm/RedditVideoMakerBot/pull/261) | 08/06/2022 |
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to modify the path where the video is saved](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)                   | 08/06/2022 |
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to select a custom reddit thread](https://github.com/elebumm/RedditVideoMakerBot/pull/238)                               | 05/06/2022 |
+- [WordSearch Puzzle Generator](https://github.com/DomizianoScarcelli/word-find-puzzle) (React, TypeScript, Jest)
 
 # About me ✨
 Hi, I'm Domiziano.
@@ -76,3 +62,15 @@ If you want to contact me you can write me at: [scarcelli.domiziano@gmail.com](m
 [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) - [Personal Portfolio](https://domiziano.netlify.com) - [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
 
 ![Domiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomizianoScarcelli&show_icons=true&theme=radical)
+
+
+# Projects I have contributed to 🙏
+
+| Repository                                                                                | PR                                                                                                                                         | Merge date |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Adding possibility to specify due date and time with natural language](https://github.com/DamascenoRafael/reminders-menubar/pull/105)     | 21/02/2023 |
+| [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Added missing Italian translation in Localizable.strings](https://github.com/DamascenoRafael/reminders-menubar/pull/106)                  | 16/02/2023 |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added a filter to pick only the comments inside a range of length in characters](https://github.com/elebumm/RedditVideoMakerBot/pull/261) | 08/06/2022 |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to modify the path where the video is saved](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)                   | 08/06/2022 |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to select a custom reddit thread](https://github.com/elebumm/RedditVideoMakerBot/pull/238)                               | 05/06/2022 |
+  
