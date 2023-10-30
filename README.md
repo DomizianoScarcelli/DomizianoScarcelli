@@ -2,6 +2,7 @@
 
 
 # Projects 🎓
+- Multi Latent Autoregressive Source Separation [Work in Progress] (Deep Learning, Belief Propagation)
 - [Spotify Automatic Playlist Continuation](https://github.com/DomizianoScarcelli/spotify-recommender) (Python, Pyspark, Big Data, Petastorm, PyTorch, React, Tailwind, MinIO, MongoDB, Docker)
 - [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/DomizianoScarcelli/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
 - [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/DomizianoScarcelli/voicefork-alexa-skill) (Alexa Skill, Typescript)
