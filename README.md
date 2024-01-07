@@ -2,6 +2,8 @@
 
 
 # Projects 🎓
+- Skin Lesion Classification [Work in Progress] (Python, Pytorch, CNN, ViT, Segmentation)
+- SmartSupply: Blockchain Fake Product Identification DAPP [Work in Progress] (Solidity, Typescript, Hardhat, Ethereum, Nodejs)
 - Multi Latent Autoregressive Source Separation [Work in Progress] (Python, PyTorch, Belief Propagation)
 - [Spotify Automatic Playlist Continuation](https://github.com/DomizianoScarcelli/spotify-recommender) (Python, Pyspark, Big Data, Petastorm, PyTorch, React, Tailwind, MinIO, MongoDB, Docker)
 - [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/DomizianoScarcelli/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
