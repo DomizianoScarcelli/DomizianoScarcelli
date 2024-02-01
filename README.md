@@ -1,6 +1,3 @@
-
-
-
 # Projects 🎓
 - [Skin Lesion Classification](https://github.com/DomizianoScarcelli/skin-lesion-classification) (Python, Pytorch, CNN, ViT, Segmentation, StyleGAN)
 - [SmartSupply: Blockchain Fake Product Identification DAPP](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) (Solidity, Typescript, Hardhat, Ethereum, Nodejs)
@@ -13,6 +10,9 @@
 - [Stroke Prediction with Machine Learning](https://github.com/DomizianoScarcelli/fundamentals-of-data-science) (Python, Machine Learning)
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 - [WordSearch Puzzle Generator](https://github.com/DomizianoScarcelli/word-find-puzzle) (React, TypeScript, Jest)
+
+# University Notes
+I'm open-sourcing most of the notes I took during my Computer Science Masters Degree, you can find the repository here: [Computer Science Notes](https://github.com/DomizianoScarcelli/computer-science-sapienza-notes)
 
 # About me ✨
 Hi, I'm Domiziano.
