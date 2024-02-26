@@ -11,9 +11,11 @@
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) (Java, Java Swing GUI)
 - [WordSearch Puzzle Generator](https://github.com/DomizianoScarcelli/word-find-puzzle) (React, TypeScript, Jest)
 
-# University Notes
-I'm open-sourcing most of the notes I took during my Computer Science Masters Degree, you can find the repository here: [Computer Science Notes](https://github.com/DomizianoScarcelli/computer-science-sapienza-notes)
-
+# Public Resources
+### University Notes
+I'm open-sourcing most of the notes I took during my Computer Science Masters Degree, you can find the repository here: [Computer Science Notes](https://github.com/DomizianoScarcelli/computer-science-sapienza-notes) and the website here: [Domiziano's CS Notes](https://domiziano-cs-notes.netlify.com)
+### Python Exercises
+I also published an archive of Python exercises written by me using Hugo at the following link: [Python Excercises](https://python-exercises.netlify.com)
 # About me ✨
 Hi, I'm Domiziano.
 
