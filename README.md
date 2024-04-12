@@ -78,4 +78,6 @@ If you want to contact me you can write me at: [scarcelli.domiziano@gmail.com](m
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added a filter to pick only the comments inside a range of length in characters](https://github.com/elebumm/RedditVideoMakerBot/pull/261) | 08/06/2022 |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to modify the path where the video is saved](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)                   | 08/06/2022 |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to select a custom reddit thread](https://github.com/elebumm/RedditVideoMakerBot/pull/238)                               | 05/06/2022 |
-  
+
+[![](https://visitcount.itsvg.in/api?id=DomizianoScarcelli&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
