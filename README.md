@@ -34,29 +34,20 @@ I have some experience in:
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) `Java`, `Java Swing GUI`
 - [WordSearch Puzzle Generator](https://github.com/DomizianoScarcelli/word-find-puzzle) `React`, `TypeScript`, `Jest`
 
-# Public Resources
-### University Notes
-I'm open-sourcing most of the notes I took during my Computer Science Masters Degree, you can find the repository here: [Computer Science Notes](https://github.com/DomizianoScarcelli/computer-science-sapienza-notes) and the website here: [Domiziano's CS Notes](https://domiziano-cs-notes.netlify.com)
-### Python Exercises
-I also published an archive of Python exercises written by me using Hugo at the following link: [Python Excercises](https://python-exercises.netlify.com)
+# Public Resources 📝
+[University Notes](https://domiziano-cs-notes.netlify.com) • [Python Excercises](https://python-exercises.netlify.com)
 
-# What do I know?
+# Tools that I know 🛠️
 
 - Languages I'm familiar with:
 `HTML`, `CSS`, `Typescript`, `Java`, `Python`, `SQL`, `Swift`
 - Tools I usually use: `React`, `React Native`, `Docker`, `MinIO`, `FastAPI`, `Express`, `Prisma`, `MongoDB`, `Terraform`
 - Previously I deployed code on: `AWS`, `Railway`, `Netlify`
 
-
 During the development of some projects, I also used some programs like:
 - Figma / Adobe XD
 - Photoshop
 - Premiere Pro / Da Vinci Resolve
-
-
-
-![Domiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomizianoScarcelli&show_icons=true&theme=radical)
-
 
 # Projects I have contributed to 🙏
 
