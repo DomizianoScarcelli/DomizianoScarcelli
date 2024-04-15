@@ -1,5 +1,6 @@
 
 ![tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)](https://github.com/DomizianoScarcelli/DomizianoScarcelli/assets/44399141/751616dc-8f8c-4f10-9d87-f116d9da912b)
+
 # Hello stranger! 🙋🏽‍♂️
 Hi, I'm Domiziano, a software engineer based in Rome interested in Deep Learning and currently studying for a master's degree in Computer Science at the University of Rome "La Sapienza".
 
@@ -68,4 +69,5 @@ If you want to contact me you can write me at: [scarcelli.domiziano@gmail.com](m
 
 [![](https://visitcount.itsvg.in/api?id=DomizianoScarcelli&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+I wish I could draw pixel art, but I downloaded the hero image [here](https://www.pinterest.it/pin/14636767526269135/)
 
