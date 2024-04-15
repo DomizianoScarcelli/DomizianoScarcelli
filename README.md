@@ -68,7 +68,3 @@ During the development of some projects, I also used some programs like:
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to modify the path where the video is saved](https://github.com/elebumm/RedditVideoMakerBot/pull/333/)                   | 08/06/2022 |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)             | [Added the option to select a custom reddit thread](https://github.com/elebumm/RedditVideoMakerBot/pull/238)                               | 05/06/2022 |
 
-[![](https://visitcount.itsvg.in/api?id=DomizianoScarcelli&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-I wish I could draw pixel art, but I downloaded the hero image [here](https://www.pinterest.it/pin/14636767526269135/)
-
