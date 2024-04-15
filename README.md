@@ -1,8 +1,7 @@
 
 [Email](mailto:scarcelli.domiziano@gmail.com) • [Portfolio](https://domiziano.netlify.com) • [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) • [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
 
-![pxArt (5)](https://github.com/DomizianoScarcelli/DomizianoScarcelli/assets/44399141/4a8f4505-132c-4e6c-9d7b-cd8334ee1a6f)
-
+<img src="https://github.com/DomizianoScarcelli/DomizianoScarcelli/assets/44399141/631ae0b7-59aa-48dd-bb11-5bcfb9bf5dee" alt="drawing" style="width:100%;"/>
 
 # Hello stranger! 🙋🏽‍♂️
 Hi, I'm Domiziano, a software engineer based in Rome interested in Deep Learning and currently studying for a master's degree in Computer Science at the University of Rome "La Sapienza".
