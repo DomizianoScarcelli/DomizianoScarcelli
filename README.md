@@ -1,4 +1,6 @@
 
+[Email](mailto:scarcelli.domiziano@gmail.com) • [Portfolio](https://domiziano.netlify.com) • [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) • [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
+
 ![tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)](https://github.com/DomizianoScarcelli/DomizianoScarcelli/assets/44399141/751616dc-8f8c-4f10-9d87-f116d9da912b)
 
 # Hello stranger! 🙋🏽‍♂️
@@ -50,9 +52,7 @@ During the development of some projects, I also used some programs like:
 - Photoshop
 - Premiere Pro / Da Vinci Resolve
 
-If you want to contact me you can write me at: [scarcelli.domiziano@gmail.com](mailto:scarcelli.domiziano@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) - [Personal Portfolio](https://domiziano.netlify.com) - [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
 
 ![Domiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomizianoScarcelli&show_icons=true&theme=radical)
 
