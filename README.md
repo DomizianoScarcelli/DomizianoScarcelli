@@ -1,5 +1,5 @@
 
-[Email](mailto:scarcelli.domiziano@gmail.com) • [Portfolio](https://domiziano.netlify.com) • [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) • [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
+[Email](mailto:scarcelli.domiziano@gmail.com) • [Portfolio](https://domiziano.netlify.app) • [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) • [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
 
 <img src="https://github.com/DomizianoScarcelli/DomizianoScarcelli/assets/44399141/631ae0b7-59aa-48dd-bb11-5bcfb9bf5dee" alt="drawing" style="width:100%;"/>
 
@@ -34,7 +34,7 @@ I have some experience in:
 - [WordSearch Puzzle Generator](https://github.com/DomizianoScarcelli/word-find-puzzle) `React`, `TypeScript`, `Jest`
 
 # Public Resources 📝
-[University Notes](https://domiziano-cs-notes.netlify.com) • [Python Excercises](https://python-exercises.netlify.com)
+[University Notes](https://domiziano-cs-notes.netlify.app) • [Python Excercises](https://python-exercises.netlify.app)
 
 # Tools that I know 🛠️
 
