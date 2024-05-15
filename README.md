@@ -27,6 +27,7 @@ I have some experience in:
 - [Spotify Automatic Playlist Continuation](https://github.com/DomizianoScarcelli/spotify-recommender) `Python`, `Pyspark`, `Big Data`, `Petastorm`, `PyTorch`, `React`, `Tailwind`, `MinIO`, `MongoDB`, `Docker`
 - [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/DomizianoScarcelli/voicefork) `React Native`, `AWS`, `Terraform`, `Prisma`, `Python`, `Typescript`, `Express`, `FastAPI`, `MinIO`, `Docker`
 - [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/DomizianoScarcelli/voicefork-alexa-skill) `Alexa Skill`, `Typescript`
+- [Energy Games Solver](https://github.com/DomizianoScarcelli/energy-games-solver) `Python`, `Game Theory`, `Graph Theory`
 - [BiometricBites - Face recognition system for cafeteria access](https://github.com/DomizianoScarcelli/BiometricBites) `Typescript`, `Python`, `React`, `Django`, `Face Recognition`
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/DomizianoScarcelli/autonomous-networking) `Python`, `Reinforcement Learning`
 - [Stroke Prediction with Machine Learning](https://github.com/DomizianoScarcelli/fundamentals-of-data-science) `Python, Machine Learning`
