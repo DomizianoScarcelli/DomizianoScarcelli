@@ -8,12 +8,6 @@ Hi, I'm Domiziano, a software engineer based in Rome interested in Deep Learning
 
 Below you can learn a little bit more about me, my projects, and my contributions.
 
-Currently I'm:
-- Developing a university project about multimodal emotion recognition using Audio, Video and Physiological Signals
-- Learning Nvim, so I can sell my mouse
-- Developing a Pokemon collection cards e-commerce
-- Shooting and sliding in Fortnite
-
 I have some experience in:
 - Web Development
 - Mobile Development
@@ -21,6 +15,7 @@ I have some experience in:
 - Machine Learning, using PyTorch as a framework and Pyspark for distributed computation.
 
 # Finished Projects 🎓
+- Emotion Recognition with Audio, Video and Physiological signals (Work in progress) `Python`, `Pytorch`, `CNN`, `ViT`, `Signal Processing`
 - [Skin Lesion Classification](https://github.com/DomizianoScarcelli/skin-lesion-classification) `Python`, `Pytorch`, `CNN`, `ViT`, `Segmentation`, `StyleGAN`
 - [SmartSupply: Blockchain Fake Product Identification DAPP](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) `Solidity`, `Typescript`, `Hardhat`, `Ethereum`, `Nodejs`
 <!-- - Multi Latent Autoregressive Source Separation [Work in Progress] (Python, PyTorch, Belief Propagation) -->
