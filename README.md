@@ -44,7 +44,7 @@ During the development of some projects, I also used some programs like:
 - Photoshop
 - Premiere Pro / Da Vinci Resolve
 
-# Projects I have contributed to 🙏
+# Open source projects I have contributed to 🙏
 
 | Repository                                                                                | PR                                                                                                                                         | Merge date |
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------|
