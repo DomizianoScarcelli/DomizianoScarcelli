@@ -48,6 +48,7 @@ During the development of some projects, I also used some programs like:
 
 | Repository                                                                                | PR                                                                                                                                         | Merge date |
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | [Fix padding asymmetry between left and right sidebars w.r.t. tabs in card layout](https://github.com/AnubisNekhet/AnuPpuccin/pull/287) | 7/06/2024 |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | [Fix padding asymmetry between vertical tabs in card layout](https://github.com/AnubisNekhet/AnuPpuccin/pull/286) | 5/06/2024 |
 |[DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Adding possibility to specify due date and time with natural language](https://github.com/DamascenoRafael/reminders-menubar/pull/105)     | 21/02/2023 |
 | [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Added missing Italian translation in Localizable.strings](https://github.com/DamascenoRafael/reminders-menubar/pull/106)                  | 16/02/2023 |
