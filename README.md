@@ -48,6 +48,7 @@ During the development of some projects, I also used some programs like:
 
 | Repository                                                                                | PR                                                                                                                                         | Merge date |
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| [rurza/BatFi](https://github.com/rurza/BatFi)|[Added Italian translation](https://github.com/rurza/BatFi/pull/54) |12/06/2024|
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | [Fix padding asymmetry between left and right sidebars w.r.t. tabs in card layout](https://github.com/AnubisNekhet/AnuPpuccin/pull/287) | 7/06/2024 |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | [Fix padding asymmetry between vertical tabs in card layout](https://github.com/AnubisNekhet/AnuPpuccin/pull/286) | 5/06/2024 |
 |[DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) | [Adding possibility to specify due date and time with natural language](https://github.com/DamascenoRafael/reminders-menubar/pull/105)     | 21/02/2023 |
