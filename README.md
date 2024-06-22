@@ -15,7 +15,7 @@ I have some experience in:
 - Machine Learning, using PyTorch as a framework and Pyspark for distributed computation.
 
 # Finished Projects 🎓
-- Emotion Recognition with Audio, Video and Physiological signals (Work in progress) `Python`, `Pytorch`, `CNN`, `ViT`, `Signal Processing`
+- [Emotion Recognition with Audio, Video and Physiological signals](https://github.com/DomizianoScarcelli/multimodal-advertisement-sentiment-analysis) `Python`, `Pytorch`, `CNN`, `ViT`, `Signal Processing`
 - [Skin Lesion Classification](https://github.com/DomizianoScarcelli/skin-lesion-classification) `Python`, `Pytorch`, `CNN`, `ViT`, `Segmentation`, `StyleGAN`
 - [SmartSupply: Blockchain Fake Product Identification DAPP](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) `Solidity`, `Typescript`, `Hardhat`, `Ethereum`, `Nodejs`
 <!-- - Multi Latent Autoregressive Source Separation [Work in Progress] (Python, PyTorch, Belief Propagation) -->
