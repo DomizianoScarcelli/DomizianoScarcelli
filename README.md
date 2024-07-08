@@ -29,9 +29,6 @@ I have some experience in:
 - [ASCII Editor GUI](https://github.com/DomizianoScarcelli/ascii-editor-refactor) `Java`, `Java Swing GUI`
 - [WordSearch Puzzle Generator](https://github.com/DomizianoScarcelli/word-find-puzzle) `React`, `TypeScript`, `Jest`
 
-# Public Resources 📝
-[University Notes](https://domiziano-cs-notes.netlify.app) • [Python Excercises](https://python-exercises.netlify.app)
-
 # Tools that I know 🛠️
 
 - Languages I'm familiar with:
