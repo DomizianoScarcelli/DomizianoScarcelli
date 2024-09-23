@@ -15,10 +15,10 @@ I have some experience in:
 - Machine Learning, using PyTorch as a framework and Pyspark for distributed computation.
 
 # Finished Projects 🎓
+- [Multi Latent Autoregressive Source Separation](https://github.com/DomizianoScarcelli/multi-latent-autoregressive-source-separation) (`Python`, `PyTorch`, `Graphical Models`, `Audio Processing`)
 - [Emotion Recognition with Audio, Video and Physiological signals](https://github.com/DomizianoScarcelli/multimodal-advertisement-sentiment-analysis) `Python`, `Pytorch`, `CNN`, `ViT`, `Signal Processing`
 - [Skin Lesion Classification](https://github.com/DomizianoScarcelli/skin-lesion-classification) `Python`, `Pytorch`, `CNN`, `ViT`, `Segmentation`, `StyleGAN`
 - [SmartSupply: Blockchain Fake Product Identification DAPP](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) `Solidity`, `Typescript`, `Hardhat`, `Ethereum`, `Nodejs`
-<!-- - Multi Latent Autoregressive Source Separation [Work in Progress] (Python, PyTorch, Belief Propagation) -->
 - [Spotify Automatic Playlist Continuation](https://github.com/DomizianoScarcelli/spotify-recommender) `Python`, `Pyspark`, `Big Data`, `Petastorm`, `PyTorch`, `React`, `Tailwind`, `MinIO`, `MongoDB`, `Docker`
 - [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/DomizianoScarcelli/voicefork) `React Native`, `AWS`, `Terraform`, `Prisma`, `Python`, `Typescript`, `Express`, `FastAPI`, `MinIO`, `Docker`
 - [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/DomizianoScarcelli/voicefork-alexa-skill) `Alexa Skill`, `Typescript`
